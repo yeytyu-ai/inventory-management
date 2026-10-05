@@ -1,0 +1,22 @@
+# Inventory Management System
+
+A simple Python-based Inventory Management System.
+
+## Features
+
+- Add products
+- Update product details
+- Delete products
+- View products
+- Store product data in JSON and CSV files
+
+## Files
+
+- inventory.py
+- exceptions.py
+- storage.py
+- main.py
+- test_inventory.py
+- products.json
+- products.csv
+- README.md
